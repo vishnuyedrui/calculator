@@ -21,6 +21,8 @@ Simple and beginner-friendly JavaScript
 
 
 <img width="337" height="475" alt="image" src="https://github.com/user-attachments/assets/2216fed7-a91e-4878-b79c-989f88026e8b" />
+<img width="373" height="503" alt="image" src="https://github.com/user-attachments/assets/373729fe-d369-4433-99d5-b4a7da5e416d" />
+
 
 
 If you upload a screenshot, I can generate this section with your image path automatically.
